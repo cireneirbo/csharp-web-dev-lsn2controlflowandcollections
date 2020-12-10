@@ -6,7 +6,7 @@ namespace ArrayExercises
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Arrays!");
+            Console.WriteLine("Hello  Arrays!");
         }
     }
 }
